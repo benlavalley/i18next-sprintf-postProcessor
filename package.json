@@ -1,6 +1,6 @@
 {
   "name": "i18next-sprintf-postprocessor",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "backend layer for i18next using browsers xhr",
   "main": "./index.js",
   "jsnext:main": "dist/es/index.js",
